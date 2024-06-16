@@ -1,2 +1,2 @@
 # testrepo
-testrepo DS
+testrepo DS-1
